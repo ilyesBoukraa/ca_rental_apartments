@@ -14,3 +14,6 @@ you can create a structured dataset that can be easily queried and filtered usin
 5. Employed the __re__ library and __regular expressions__ to extract and clean specific information, such as isolating the numerical value of the price.
 6. Gained proficiency in working with XML queries to extract the desired data accurately from the website.
 7. Created a separate file named [test_xpath.py](https://github.com/ilyesBoukraa/ca_rental_apartments/blob/master/test_xpath.py) for testing and verifying the correctness of the XPath expressions used in the project.
+
+
+![an image containing a part of the code](/imgs/scrapy_code.png)
