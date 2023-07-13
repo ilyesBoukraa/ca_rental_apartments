@@ -16,3 +16,5 @@ you can create a structured dataset that can be easily queried and filtered usin
 
 
 ![an image containing a part of the code](/imgs/scrapy_code.png)
+
+Note: the image was created by [Carbon](https://carbon.now.sh/).
