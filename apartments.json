@@ -1,0 +1,2202 @@
+[
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "3",
+        "hous_size_m2": "130.06 ",
+        "location": "6029 PL W 86Th, LOS ANGELES, CA 90045",
+        "price_usd": "4,000",
+        "link": "https://www.realestate.com.au//international/us/6029-pl-w-86th-los-angeles-ca-110054566292/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "73.39 ",
+        "location": "746 ST S LOS ANGELES, Los Angeles, CA 90014",
+        "price_usd": "2,400",
+        "link": "https://www.realestate.com.au//international/us/746-st-s-los-angeles-los-angeles-ca-110054513641/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "139.08 ",
+        "location": "440 AVE VETERAN, Los Angeles, CA 90024",
+        "price_usd": "3,200",
+        "link": "https://www.realestate.com.au//international/us/440-ave-veteran-los-angeles-ca-110054035507/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "167.23 ",
+        "location": "2041 ST W 31ST, LOS ANGELES, CA 90018",
+        "price_usd": "3,950",
+        "link": "https://www.realestate.com.au//international/us/2041-st-w-31st-los-angeles-ca-110054035308/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "2",
+        "hous_size_m2": "91.79 ",
+        "location": "2491 Purdue Avenue, Los Angeles, CA 90064",
+        "price_usd": "2,800",
+        "link": "https://www.realestate.com.au//international/us/2491-purdue-avenue-los-angeles-ca-110053979379/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "4",
+        "hous_size_m2": "265.24 ",
+        "location": "4500 PL W 16TH, Los Angeles, CA 90019",
+        "price_usd": "3,750",
+        "link": "https://www.realestate.com.au//international/us/4500-pl-w-16th-los-angeles-ca-110053920359/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "229.56 ",
+        "location": "1373 AVE BECKWITH, LOS ANGELES, CA 90049",
+        "price_usd": "8,600",
+        "link": "https://www.realestate.com.au//international/us/1373-ave-beckwith-los-angeles-ca-110053870578/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "97.55 ",
+        "location": "712 W 54th Street, Los Angeles, CA 90037",
+        "price_usd": "2,450",
+        "link": "https://www.realestate.com.au//international/us/712-w-54th-street-los-angeles-ca-110053844889/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "86.40 ",
+        "location": "1111 S Grand Avenue, Los Angeles, CA 90015",
+        "price_usd": "2,500",
+        "link": "https://www.realestate.com.au//international/us/1111-s-grand-avenue-los-angeles-ca-110053728085/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "111.58 ",
+        "location": "1340 S BEVERLY GLEN, LOS ANGELES, CA 90024",
+        "price_usd": "3,300",
+        "link": "https://www.realestate.com.au//international/us/1340-s-beverly-glen-los-angeles-ca-110053535380/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "2,474.94 ",
+        "location": "4810 AVE S LA BREA, LOS ANGELES, CA 90008",
+        "price_usd": "1,995",
+        "link": "https://www.realestate.com.au//international/us/4810-ave-s-la-brea-los-angeles-ca-110053393170/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "127.46 ",
+        "location": "2160 CENTURY PARK E, LOS ANGELES, CA 90067",
+        "price_usd": "4,500",
+        "link": "https://www.realestate.com.au//international/us/2160-century-park-e-los-angeles-ca-110053360833/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "3",
+        "hous_size_m2": "183.58 ",
+        "location": "2682 RD WOODSTOCK, LOS ANGELES, CA 90046",
+        "price_usd": "10,000",
+        "link": "https://www.realestate.com.au//international/us/2682-rd-woodstock-los-angeles-ca-110053025594/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": "1",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "129.14 ",
+        "location": "1155 AVE S GRAND, LOS ANGELES, CA 90015",
+        "price_usd": "3,500",
+        "link": "https://www.realestate.com.au//international/us/1155-ave-s-grand-los-angeles-ca-110052574709/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "213.68 ",
+        "location": "326 DR N ORANGE, LOS ANGELES, CA 90036",
+        "price_usd": "5,000",
+        "link": "https://www.realestate.com.au//international/us/326-dr-n-orange-los-angeles-ca-110052570957/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "218.32 ",
+        "location": "355 S CRESCENT HEIGHTS, LOS ANGELES, CA 90048",
+        "price_usd": "6,500",
+        "link": "https://www.realestate.com.au//international/us/355-s-crescent-heights-los-angeles-ca-110052570250/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": null,
+        "location": "1467 DR REXFORD, LOS ANGELES, CA 90035",
+        "price_usd": "3,350",
+        "link": "https://www.realestate.com.au//international/us/1467-dr-rexford-los-angeles-ca-110052569026/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "5",
+        "car_spaces": "2",
+        "hous_size_m2": "378.30 ",
+        "location": "7004 Arizona Avenue, Los Angeles, CA 90045",
+        "price_usd": "11,000",
+        "link": "https://www.realestate.com.au//international/us/7004-arizona-avenue-los-angeles-ca-110052356043/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": null,
+        "hous_size_m2": "201.97 ",
+        "location": "1716 ST MICHELTORENA, LOS ANGELES, CA 90026",
+        "price_usd": "7,450",
+        "link": "https://www.realestate.com.au//international/us/1716-st-micheltorena-los-angeles-ca-110051653823/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "83.80 ",
+        "location": "7230 Franklin Avenue, Los Angeles, CA 90046",
+        "price_usd": "2,595",
+        "link": "https://www.realestate.com.au//international/us/7230-franklin-avenue-los-angeles-ca-110017287639/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "54.35 ",
+        "location": "3308 Mentone Ave, Apt 202, Los Angeles, CA 90034",
+        "price_usd": "3,250",
+        "link": "https://www.realestate.com.au//international/us/3308-mentone-ave-apt-202-los-angeles-ca-110085234644/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "car_spaces": "1",
+        "hous_size_m2": "104.24 ",
+        "location": "3308 Mentone Ave, Apt 403, Los Angeles, CA 90034",
+        "price_usd": "4,950",
+        "link": "https://www.realestate.com.au//international/us/3308-mentone-ave-apt-403-los-angeles-ca-110085235225/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "93.18 ",
+        "location": "3308 Mentone Ave, Apt 301, Los Angeles, CA 90034",
+        "price_usd": "4,900",
+        "link": "https://www.realestate.com.au//international/us/3308-mentone-ave-apt-301-los-angeles-ca-110085235229/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "79.06 ",
+        "location": "3308 Mentone Ave, Apt 501, Los Angeles, CA 90034",
+        "price_usd": "4,550",
+        "link": "https://www.realestate.com.au//international/us/3308-mentone-ave-apt-501-los-angeles-ca-110085236397/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "123.65 ",
+        "location": "3702 Sawtelle Blvd, Los Angeles, CA 90066",
+        "price_usd": "5,700",
+        "link": "https://www.realestate.com.au//international/us/3702-sawtelle-blvd-los-angeles-ca-110085063689/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "car_spaces": "6",
+        "hous_size_m2": "143.63 ",
+        "location": "3156 S Bentley Avenue, Los Angeles, CA 90034",
+        "price_usd": "6,300",
+        "link": "https://www.realestate.com.au//international/us/3156-s-bentley-avenue-los-angeles-ca-110085368250/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "4",
+        "hous_size_m2": "188.50 ",
+        "location": "3400 club DR, LOS ANGELES, CA 90064",
+        "price_usd": "6,495",
+        "link": "https://www.realestate.com.au//international/us/3400-club-dr-los-angeles-ca-110084791909/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "418.99 ",
+        "location": "10316 Bannockburn Dr, Los Angeles, CA 90064",
+        "price_usd": "14,000",
+        "link": "https://www.realestate.com.au//international/us/10316-bannockburn-dr-los-angeles-ca-110085694986/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "55.74 ",
+        "location": "4080 Van Buren Pl, Culver City, CA 90232",
+        "price_usd": "3,250",
+        "link": "https://www.realestate.com.au//international/us/4080-van-buren-pl-culver-city-ca-110085385771/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "6",
+        "car_spaces": "2",
+        "hous_size_m2": "371.61 ",
+        "location": "2717 Kelton Ave, Los Angeles, CA 90064",
+        "price_usd": "13,500",
+        "link": "https://www.realestate.com.au//international/us/2717-kelton-ave-los-angeles-ca-110085695035/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "145.76 ",
+        "location": "3046 Bagley Ave, Los Angeles, CA 90034",
+        "price_usd": "8,500",
+        "link": "https://www.realestate.com.au//international/us/3046-bagley-ave-los-angeles-ca-110085523659/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "5",
+        "hous_size_m2": "311.97 ",
+        "location": "3517 Inglewood Blvd, Los Angeles, CA 90066",
+        "price_usd": "19,800",
+        "link": "https://www.realestate.com.au//international/us/3517-inglewood-blvd-los-angeles-ca-110085291634/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "car_spaces": "2",
+        "hous_size_m2": null,
+        "location": "3972 Keeshen Dr, Los Angeles, CA 90066",
+        "price_usd": "5,250",
+        "link": "https://www.realestate.com.au//international/us/3972-keeshen-dr-los-angeles-ca-110085234413/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "144.00 ",
+        "location": "3154 CURTS AVE, LOS ANGELES, CA 90034",
+        "price_usd": "11,250",
+        "link": "https://www.realestate.com.au//international/us/3154-curts-ave-los-angeles-ca-110085062971/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "212.93 ",
+        "location": "3030 Stoner Ave, Los Angeles, CA 90066",
+        "price_usd": "8,000",
+        "link": "https://www.realestate.com.au//international/us/3030-stoner-ave-los-angeles-ca-110084683898/"
+    },
+    {
+        "property_type": "Rural",
+        "bedrooms": "5",
+        "bathrooms": "7",
+        "car_spaces": "4",
+        "hous_size_m2": "431.53 ",
+        "location": "3544 OCEAN VIEW AVE, LOS ANGELES, CA 90066",
+        "price_usd": "15,000",
+        "link": "https://www.realestate.com.au//international/us/3544-ocean-view-ave-los-angeles-ca-110082686849/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "65.78 ",
+        "location": "3529 Ocean View Ave, Los Angeles, CA 90066",
+        "price_usd": "3,000",
+        "link": "https://www.realestate.com.au//international/us/3529-ocean-view-ave-los-angeles-ca-110085386902/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "5",
+        "car_spaces": "4",
+        "hous_size_m2": "272.02 ",
+        "location": "2731 ANCHOR AVE, LOS ANGELES, CA 90064",
+        "price_usd": "9,495",
+        "link": "https://www.realestate.com.au//international/us/2731-anchor-ave-los-angeles-ca-110084791727/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "car_spaces": "2",
+        "hous_size_m2": "91.79 ",
+        "location": "2519 BENTLEY AVE, LOS ANGELES, CA 90064",
+        "price_usd": "4,495",
+        "link": "https://www.realestate.com.au//international/us/2519-bentley-ave-los-angeles-ca-110085694977/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": null,
+        "location": "11208 S Pearl ST, LOS ANGELES, CA 90064",
+        "price_usd": "2,495",
+        "link": "https://www.realestate.com.au//international/us/11208-s-pearl-st-los-angeles-ca-110085281477/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "83.61 ",
+        "location": "10806 Overland Ave, Culver City, CA 90230",
+        "price_usd": "3,650",
+        "link": "https://www.realestate.com.au//international/us/10806-overland-ave-culver-city-ca-110084987949/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "111.48 ",
+        "location": "8924 Olin Street, Los Angeles, CA 90034",
+        "price_usd": "5,950",
+        "link": "https://www.realestate.com.au//international/us/8924-olin-street-los-angeles-ca-110084753632/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "3",
+        "hous_size_m2": "209.87 ",
+        "location": "2768 Monte Mar Ter, Los Angeles, CA 90064",
+        "price_usd": "18,500",
+        "link": "https://www.realestate.com.au//international/us/2768-monte-mar-ter-los-angeles-ca-110085379345/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "4",
+        "hous_size_m2": "192.40 ",
+        "location": "9518 Duxbury Ln, Los Angeles, CA 90034",
+        "price_usd": "8,900",
+        "link": "https://www.realestate.com.au//international/us/9518-duxbury-ln-los-angeles-ca-110085233405/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "2",
+        "hous_size_m2": "110.28 ",
+        "location": "12424 Woodbine St, Los Angeles, CA 90066",
+        "price_usd": "4,700",
+        "link": "https://www.realestate.com.au//international/us/12424-woodbine-st-los-angeles-ca-110084702558/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "car_spaces": "6",
+        "hous_size_m2": "156.45 ",
+        "location": "12315 Stanwood Dr, Los Angeles, CA 90066",
+        "price_usd": "5,990",
+        "link": "https://www.realestate.com.au//international/us/12315-stanwood-dr-los-angeles-ca-110085237063/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "4",
+        "hous_size_m2": "175.12 ",
+        "location": "2734 Burkshire Ave, Los Angeles, CA 90064",
+        "price_usd": "7,500",
+        "link": "https://www.realestate.com.au//international/us/2734-burkshire-ave-los-angeles-ca-110085384306/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "4",
+        "car_spaces": "6",
+        "hous_size_m2": "260.13 ",
+        "location": "8631 Olin St, Apt 2, Los Angeles, CA 90034",
+        "price_usd": "5,800",
+        "link": "https://www.realestate.com.au//international/us/8631-olin-st-apt-2-los-angeles-ca-110085571400/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "car_spaces": "3",
+        "hous_size_m2": "81.01 ",
+        "location": "3939 Wade Street, Los Angeles, CA 90066",
+        "price_usd": "4,500",
+        "link": "https://www.realestate.com.au//international/us/3939-wade-street-los-angeles-ca-110084091697/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "185.81 ",
+        "location": "2202 Kelton Ave, Los Angeles, CA 90064",
+        "price_usd": "9,000",
+        "link": "https://www.realestate.com.au//international/us/2202-kelton-ave-los-angeles-ca-110085291611/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "167.23 ",
+        "location": "2019 Preuss Rd, Apt E, Los Angeles, CA 90034",
+        "price_usd": "6,500",
+        "link": "https://www.realestate.com.au//international/us/2019-preuss-rd-apt-e-los-angeles-ca-110084125662/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "194.63 ",
+        "location": "2151 Glendon Ave, Los Angeles, CA 90025",
+        "price_usd": "7,495",
+        "link": "https://www.realestate.com.au//international/us/2151-glendon-ave-los-angeles-ca-110085694916/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "305.47 ",
+        "location": "10364 Tennessee Avenue, Los Angeles, CA 90064",
+        "price_usd": "11,000",
+        "link": "https://www.realestate.com.au//international/us/10364-tennessee-avenue-los-angeles-ca-110082590513/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "139.45 ",
+        "location": "11993 Bray St, Culver City, CA 90230",
+        "price_usd": "6,495",
+        "link": "https://www.realestate.com.au//international/us/11993-bray-st-culver-city-ca-110085376006/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "4",
+        "car_spaces": "8",
+        "hous_size_m2": "139.45 ",
+        "location": "11991 Bray St, Culver City, CA 90230",
+        "price_usd": "6,495",
+        "link": "https://www.realestate.com.au//international/us/11991-bray-st-culver-city-ca-110085385830/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "car_spaces": "8",
+        "hous_size_m2": "174.75 ",
+        "location": "5218 Inglewood Blvd, Apt 5018, Culver City, CA 90230",
+        "price_usd": "6,895",
+        "link": "https://www.realestate.com.au//international/us/5218-inglewood-blvd-apt-5018-culver-city-ca-110085386212/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "8",
+        "hous_size_m2": "174.75 ",
+        "location": "5220 S Inglewood Blvd, Apt 5022, Culver City, CA 90230",
+        "price_usd": "6,895",
+        "link": "https://www.realestate.com.au//international/us/5220-s-inglewood-blvd-apt-5022-culver-city-ca-110085387974/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "92.90 ",
+        "location": "1913 Hillsboro Ave, Los Angeles, CA 90035",
+        "price_usd": "4,225",
+        "link": "https://www.realestate.com.au//international/us/1913-hillsboro-ave-los-angeles-ca-110085063099/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "106.93 ",
+        "location": "3780 Beethoven Street, Mar Vista, CA 90066",
+        "price_usd": "7,200",
+        "link": "https://www.realestate.com.au//international/us/3780-beethoven-street-mar-vista-ca-110084828361/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "6",
+        "bathrooms": "5",
+        "car_spaces": "1",
+        "hous_size_m2": "380.53 ",
+        "location": "9447 Kirkside Rd, Los Angeles, CA 90035",
+        "price_usd": "18,000",
+        "link": "https://www.realestate.com.au//international/us/9447-kirkside-rd-los-angeles-ca-110084635439/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": null,
+        "location": "3971  BEETHOVEN Street, Los Angeles (City), CA 90066",
+        "price_usd": "4,200",
+        "link": "https://www.realestate.com.au//international/us/3971-beethoven-street-los-angeles-city-ca-110019369855/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "5",
+        "hous_size_m2": "122.63 ",
+        "location": "6027 Comey Ave, Los Angeles, CA 90034",
+        "price_usd": "5,850",
+        "link": "https://www.realestate.com.au//international/us/6027-comey-ave-los-angeles-ca-110085063343/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "65.03 ",
+        "location": "8525 Cadillac Ave, Los Angeles, CA 90034",
+        "price_usd": "2,149",
+        "link": "https://www.realestate.com.au//international/us/8525-cadillac-ave-los-angeles-ca-110085569715/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "92.90 ",
+        "location": "8525 Cadillac Ave, Los Angeles, CA 90034",
+        "price_usd": "3,299",
+        "link": "https://www.realestate.com.au//international/us/8525-cadillac-ave-los-angeles-ca-110085569864/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "6",
+        "bathrooms": "5",
+        "car_spaces": "2",
+        "hous_size_m2": null,
+        "location": "1903 S Bedford ST, LOS ANGELES, CA 90034",
+        "price_usd": "20,000",
+        "link": "https://www.realestate.com.au//international/us/1903-s-bedford-st-los-angeles-ca-110077886298/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "211.45 ",
+        "location": "2138 FEDERAL AVE, LOS ANGELES, CA 90025",
+        "price_usd": "6,975",
+        "link": "https://www.realestate.com.au//international/us/2138-federal-ave-los-angeles-ca-110085281503/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "car_spaces": "4",
+        "hous_size_m2": "182.00 ",
+        "location": "1843 S Bedford St, Los Angeles, CA 90035",
+        "price_usd": "7,950",
+        "link": "https://www.realestate.com.au//international/us/1843-s-bedford-st-los-angeles-ca-110085386460/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "74.32 ",
+        "location": "2064 Chariton St, Los Angeles, CA 90034",
+        "price_usd": "2,999",
+        "link": "https://www.realestate.com.au//international/us/2064-chariton-st-los-angeles-ca-110085569622/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "86.40 ",
+        "location": "4109 Lyceum Avenue, Mar Vista, CA 90066",
+        "price_usd": "2,800",
+        "link": "https://www.realestate.com.au//international/us/4109-lyceum-avenue-mar-vista-ca-110085579326/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "4",
+        "hous_size_m2": "169.27 ",
+        "location": "1530 Reeves St, Los Angeles, CA 90035",
+        "price_usd": "8,700",
+        "link": "https://www.realestate.com.au//international/us/1530-reeves-st-los-angeles-ca-110085541605/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "car_spaces": "3",
+        "hous_size_m2": "211.17 ",
+        "location": "2154 Century Hl, Los Angeles, CA 90067",
+        "price_usd": "7,495",
+        "link": "https://www.realestate.com.au//international/us/2154-century-hl-los-angeles-ca-110084790881/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "car_spaces": "3",
+        "hous_size_m2": "211.26 ",
+        "location": "2467 Century Hl, Los Angeles, CA 90067",
+        "price_usd": "10,500",
+        "link": "https://www.realestate.com.au//international/us/2467-century-hl-los-angeles-ca-110085483592/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "175.68 ",
+        "location": "1963 BENECIA AVE, LOS ANGELES, CA 90025",
+        "price_usd": "5,995",
+        "link": "https://www.realestate.com.au//international/us/1963-benecia-ave-los-angeles-ca-110084791304/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "4",
+        "car_spaces": "4",
+        "hous_size_m2": "468.79 ",
+        "location": "10288 CENTURY WOODS DR, LOS ANGELES, CA 90067",
+        "price_usd": "20,000",
+        "link": "https://www.realestate.com.au//international/us/10288-century-woods-dr-los-angeles-ca-110085375697/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "46.45 ",
+        "location": "12838 Bonaparte Ave, Los Angeles, CA 90066",
+        "price_usd": "3,995",
+        "link": "https://www.realestate.com.au//international/us/12838-bonaparte-ave-los-angeles-ca-110084791172/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "181.53 ",
+        "location": "12836 Bonaparte Ave, Los Angeles, CA 90066",
+        "price_usd": "9,995",
+        "link": "https://www.realestate.com.au//international/us/12836-bonaparte-ave-los-angeles-ca-110084790122/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "165.55 ",
+        "location": "2334 Walgrove Ave, Los Angeles, CA 90066",
+        "price_usd": "7,800",
+        "link": "https://www.realestate.com.au//international/us/2334-walgrove-ave-los-angeles-ca-110085569738/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "284.65 ",
+        "location": "1225 Beverly Green Dr, Beverly Hills, CA 90212",
+        "price_usd": "9,975",
+        "link": "https://www.realestate.com.au//international/us/1225-beverly-green-dr-beverly-hills-ca-110084016677/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "6",
+        "car_spaces": "2",
+        "hous_size_m2": "300.73 ",
+        "location": "13206 Dewey St, Los Angeles, CA 90066",
+        "price_usd": "12,000",
+        "link": "https://www.realestate.com.au//international/us/13206-dewey-st-los-angeles-ca-110085234695/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "251.21 ",
+        "location": "1946 S Barrington Ave, Los Angeles, CA 90025",
+        "price_usd": "6,800",
+        "link": "https://www.realestate.com.au//international/us/1946-s-barrington-ave-los-angeles-ca-110085291672/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "78.97 ",
+        "location": "1352 Vienna Way, Venice, CA 90291",
+        "price_usd": "6,000",
+        "link": "https://www.realestate.com.au//international/us/1352-vienna-way-venice-ca-110084188797/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": null,
+        "hous_size_m2": "284.28 ",
+        "location": "474 S Peck Dr, Beverly Hills, CA 90212",
+        "price_usd": "16,000",
+        "link": "https://www.realestate.com.au//international/us/474-s-peck-dr-beverly-hills-ca-110085523665/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "4",
+        "hous_size_m2": "139.35 ",
+        "location": "2324 Louella Ave, Venice, CA 90291",
+        "price_usd": "5,200",
+        "link": "https://www.realestate.com.au//international/us/2324-louella-ave-venice-ca-110083988816/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "76.65 ",
+        "location": "2933 Hauser Boulevard, Los Angeles, CA 90016",
+        "price_usd": "2,975",
+        "link": "https://www.realestate.com.au//international/us/2933-hauser-boulevard-los-angeles-ca-110083176448/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "4",
+        "hous_size_m2": "278.71 ",
+        "location": "1620 South BEDFORD Street, Los Angeles (City), CA 90035",
+        "price_usd": "8,150",
+        "link": "https://www.realestate.com.au//international/us/1620-south-bedford-street-los-angeles-city-ca-110051378079/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "155.52 ",
+        "location": "1751 Midvale Ave, Los Angeles, CA 90024",
+        "price_usd": "5,995",
+        "link": "https://www.realestate.com.au//international/us/1751-midvale-ave-los-angeles-ca-110084442822/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "car_spaces": null,
+        "hous_size_m2": "219.16 ",
+        "location": "1849 FOX HILLS DR, Apt UNO, LOS ANGELES, CA 90025",
+        "price_usd": "12,500",
+        "link": "https://www.realestate.com.au//international/us/1849-fox-hills-dr-apt-uno-los-angeles-ca-110085695057/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "96.62 ",
+        "location": "2506 28th St, Santa Monica, CA 90405",
+        "price_usd": "5,200",
+        "link": "https://www.realestate.com.au//international/us/2506-28th-st-santa-monica-ca-110085608000/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "107.49 ",
+        "location": "1719 Glendon Ave, Los Angeles, CA 90024",
+        "price_usd": "3,750",
+        "link": "https://www.realestate.com.au//international/us/1719-glendon-ave-los-angeles-ca-110085523698/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "76.74 ",
+        "location": "5456 VILLAGE GRN, LOS ANGELES, CA 90016",
+        "price_usd": "2,900",
+        "link": "https://www.realestate.com.au//international/us/5456-village-grn-los-angeles-ca-110085694969/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "251.67 ",
+        "location": "1616 S Holt Ave, Los Angeles, CA 90035",
+        "price_usd": "4,850",
+        "link": "https://www.realestate.com.au//international/us/1616-s-holt-ave-los-angeles-ca-110084396310/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "228.73 ",
+        "location": "5120 S Garth Ave, Los Angeles, CA 90056",
+        "price_usd": "8,500",
+        "link": "https://www.realestate.com.au//international/us/5120-s-garth-ave-los-angeles-ca-110084607930/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "83.61 ",
+        "location": "433 S Rexford Drive, Beverly Hills, CA 90212",
+        "price_usd": "2,975",
+        "link": "https://www.realestate.com.au//international/us/433-s-rexford-drive-beverly-hills-ca-110085472426/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "car_spaces": "2",
+        "hous_size_m2": "115.66 ",
+        "location": "3118 21ST ST, SANTA MONICA, CA 90405",
+        "price_usd": "8,000",
+        "link": "https://www.realestate.com.au//international/us/3118-21st-st-santa-monica-ca-110083988764/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "190.36 ",
+        "location": "1176 Nelrose Ave, Apt C, Venice, CA 90291",
+        "price_usd": "8,995",
+        "link": "https://www.realestate.com.au//international/us/1176-nelrose-ave-apt-c-venice-ca-110084683899/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "268.95 ",
+        "location": "1604 PANDORA AVE, LOS ANGELES, CA 90024",
+        "price_usd": "9,900",
+        "link": "https://www.realestate.com.au//international/us/1604-pandora-ave-los-angeles-ca-110085064281/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "192.50 ",
+        "location": "321 S Rodeo Dr, Beverly Hills, CA 90212",
+        "price_usd": "9,650",
+        "link": "https://www.realestate.com.au//international/us/321-s-rodeo-dr-beverly-hills-ca-110085390434/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": null,
+        "location": "2948 EXPOSITION, SANTA MONICA, CA 90404",
+        "price_usd": "3,000",
+        "link": "https://www.realestate.com.au//international/us/2948-exposition-santa-monica-ca-110084776614/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "3",
+        "hous_size_m2": "249.72 ",
+        "location": "5903 S Westlawn Ave, Los Angeles, CA 90094",
+        "price_usd": "10,850",
+        "link": "https://www.realestate.com.au//international/us/5903-s-westlawn-ave-los-angeles-ca-110084683903/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "4",
+        "hous_size_m2": "131.92 ",
+        "location": "463 S Almont Dr, Beverly Hills, CA 90211",
+        "price_usd": "6,450",
+        "link": "https://www.realestate.com.au//international/us/463-s-almont-dr-beverly-hills-ca-110085291622/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "148.64 ",
+        "location": "368 Crescent Ave, BEVERLY HILLS, CA 90212",
+        "price_usd": "4,975",
+        "link": "https://www.realestate.com.au//international/us/368-crescent-ave-beverly-hills-ca-110084791324/"
+    },
+    {
+        "property_type": "Rural",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "84.82 ",
+        "location": "2415 CLOVERFIELD, Apt B, SANTA MONICA, CA 90405",
+        "price_usd": "4,800",
+        "link": "https://www.realestate.com.au//international/us/2415-cloverfield-apt-b-santa-monica-ca-110085291595/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "60.39 ",
+        "location": "1042 Amoroso Place, Apt B, Venice, CA 90291",
+        "price_usd": "2,895",
+        "link": "https://www.realestate.com.au//international/us/1042-amoroso-place-apt-b-venice-ca-110085661431/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": null,
+        "hous_size_m2": "282.80 ",
+        "location": "5338 S Chariton Ave, Los Angeles, CA 90056",
+        "price_usd": "6,700",
+        "link": "https://www.realestate.com.au//international/us/5338-s-chariton-ave-los-angeles-ca-110085569669/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": null,
+        "location": "6143 Saturn ST, LOS ANGELES, CA 90035",
+        "price_usd": "3,500",
+        "link": "https://www.realestate.com.au//international/us/6143-saturn-st-los-angeles-ca-110085063470/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "92.90 ",
+        "location": "2504 23rd Street, Santa Monica, CA 90405",
+        "price_usd": "4,200",
+        "link": "https://www.realestate.com.au//international/us/2504-23rd-street-santa-monica-ca-110084703686/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "81.29 ",
+        "location": "1644 Hi Point, LOS ANGELES, CA 90035",
+        "price_usd": "3,000",
+        "link": "https://www.realestate.com.au//international/us/1644-hi-point-los-angeles-ca-110085389181/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "6",
+        "car_spaces": "2",
+        "hous_size_m2": "418.06 ",
+        "location": "352 S Maple Dr, Beverly Hills, CA 90212",
+        "price_usd": "15,000",
+        "link": "https://www.realestate.com.au//international/us/352-s-maple-dr-beverly-hills-ca-110085608012/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "167.23 ",
+        "location": "2265 Cloverfield Boulevard, Santa Monica, CA 90405",
+        "price_usd": "7,900",
+        "link": "https://www.realestate.com.au//international/us/2265-cloverfield-boulevard-santa-monica-ca-110085302313/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "107.86 ",
+        "location": "5122 Village Grn, Los Angeles, CA 90016",
+        "price_usd": "3,500",
+        "link": "https://www.realestate.com.au//international/us/5122-village-grn-los-angeles-ca-110085234090/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "6",
+        "hous_size_m2": "131.55 ",
+        "location": "1015 Marco Place, Venice, CA 90291",
+        "price_usd": "6,800",
+        "link": "https://www.realestate.com.au//international/us/1015-marco-place-venice-ca-110085520046/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": null,
+        "hous_size_m2": "195.28 ",
+        "location": "10786 Wellworth Avenue, Los Angeles, CA 90024",
+        "price_usd": "9,995",
+        "link": "https://www.realestate.com.au//international/us/10786-wellworth-avenue-los-angeles-ca-110084091643/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "158.96 ",
+        "location": "7210 Alverstone Ave, Los Angeles, CA 90045",
+        "price_usd": "6,500",
+        "link": "https://www.realestate.com.au//international/us/7210-alverstone-ave-los-angeles-ca-110085669755/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "162.49 ",
+        "location": "7417 OGELSBY AVE, LOS ANGELES, CA 90045",
+        "price_usd": "6,000",
+        "link": "https://www.realestate.com.au//international/us/7417-ogelsby-ave-los-angeles-ca-110084791211/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "102.56 ",
+        "location": "1011 Palms Blvd, Venice, CA 90291",
+        "price_usd": "6,100",
+        "link": "https://www.realestate.com.au//international/us/1011-palms-blvd-venice-ca-110085695167/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "130.99 ",
+        "location": "1644 Wellesley Drive, Santa Monica, CA 90405",
+        "price_usd": "8,500",
+        "link": "https://www.realestate.com.au//international/us/1644-wellesley-drive-santa-monica-ca-110085229504/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "109.35 ",
+        "location": "1009 Palms Blvd, Venice, CA 90291",
+        "price_usd": "5,950",
+        "link": "https://www.realestate.com.au//international/us/1009-palms-blvd-venice-ca-110085695104/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "6",
+        "bathrooms": "7",
+        "car_spaces": "4",
+        "hous_size_m2": "561.13 ",
+        "location": "332 S Almont Dr, Beverly Hills, CA 90211",
+        "price_usd": "17,500",
+        "link": "https://www.realestate.com.au//international/us/332-s-almont-dr-beverly-hills-ca-110083621754/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "134.99 ",
+        "location": "9561 Charleville Blvd, Beverly Hills, CA 90212",
+        "price_usd": "16,500",
+        "link": "https://www.realestate.com.au//international/us/9561-charleville-blvd-beverly-hills-ca-110084152499/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "179.49 ",
+        "location": "938 Palms Boulevard, Apt 2, Venice, CA 90291",
+        "price_usd": "8,300",
+        "link": "https://www.realestate.com.au//international/us/938-palms-boulevard-apt-2-venice-ca-110085116993/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "car_spaces": "2",
+        "hous_size_m2": "325.16 ",
+        "location": "1416 Comstock AVE, LOS ANGELES, CA 90024",
+        "price_usd": "25,950",
+        "link": "https://www.realestate.com.au//international/us/1416-comstock-ave-los-angeles-ca-110085523657/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "4",
+        "car_spaces": "3",
+        "hous_size_m2": "327.20 ",
+        "location": "260 S Oakhurst Dr, Beverly Hills, CA 90212",
+        "price_usd": "8,999",
+        "link": "https://www.realestate.com.au//international/us/260-s-oakhurst-dr-beverly-hills-ca-110085662985/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "car_spaces": "3",
+        "hous_size_m2": "361.39 ",
+        "location": "1414 CLUB VIEW DR, LOS ANGELES, CA 90024",
+        "price_usd": "11,995",
+        "link": "https://www.realestate.com.au//international/us/1414-club-view-dr-los-angeles-ca-110085234609/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "92.90 ",
+        "location": "827 Venezia Ave, Venice, CA 90291",
+        "price_usd": "6,995",
+        "link": "https://www.realestate.com.au//international/us/827-venezia-ave-venice-ca-110083811696/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "108.70 ",
+        "location": "9381 Charleville Blvd, Beverly Hills, CA 90212",
+        "price_usd": "3,600",
+        "link": "https://www.realestate.com.au//international/us/9381-charleville-blvd-beverly-hills-ca-110084731920/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "108.98 ",
+        "location": "2101 S Burnside Ave, Los Angeles, CA 90016",
+        "price_usd": "3,150",
+        "link": "https://www.realestate.com.au//international/us/2101-s-burnside-ave-los-angeles-ca-110084087792/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": null,
+        "hous_size_m2": "174.84 ",
+        "location": "939 Indiana Ave, Venice, CA 90291",
+        "price_usd": "10,500",
+        "link": "https://www.realestate.com.au//international/us/939-indiana-ave-venice-ca-110084792296/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": null,
+        "location": "10748 Lindbrook Dr, Los Angeles, CA 90024",
+        "price_usd": "25,000",
+        "link": "https://www.realestate.com.au//international/us/10748-lindbrook-dr-los-angeles-ca-110085695169/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "134.62 ",
+        "location": "926 California Ave, Venice, CA 90291",
+        "price_usd": "6,800",
+        "link": "https://www.realestate.com.au//international/us/926-california-ave-venice-ca-110085066289/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "5",
+        "car_spaces": "3",
+        "hous_size_m2": "288.00 ",
+        "location": "2000 Oakwood Ave, Venice, CA 90291",
+        "price_usd": "15,500",
+        "link": "https://www.realestate.com.au//international/us/2000-oakwood-ave-venice-ca-110085234070/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "101.08 ",
+        "location": "10535 WILSHIRE, Los Angeles (City), CA 90024",
+        "price_usd": "3,995",
+        "link": "https://www.realestate.com.au//international/us/10535-wilshire-los-angeles-city-ca-110042914366/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "339.47 ",
+        "location": "1050 HILTS AVE, LOS ANGELES, CA 90024",
+        "price_usd": "14,900",
+        "link": "https://www.realestate.com.au//international/us/1050-hilts-ave-los-angeles-ca-110084710999/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "270.35 ",
+        "location": "913 SHENANDOAH ST, LOS ANGELES, CA 90035",
+        "price_usd": "4,950",
+        "link": "https://www.realestate.com.au//international/us/913-shenandoah-st-los-angeles-ca-110080674021/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "130.06 ",
+        "location": "8700 Chalmers Dr, Apt 302, Los Angeles, CA 90035",
+        "price_usd": "7,000",
+        "link": "https://www.realestate.com.au//international/us/8700-chalmers-dr-apt-302-los-angeles-ca-110084234858/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "5",
+        "car_spaces": "2",
+        "hous_size_m2": "269.05 ",
+        "location": "10448 S Ashton Ave, Los Angeles, CA 90024",
+        "price_usd": "8,750",
+        "link": "https://www.realestate.com.au//international/us/10448-s-ashton-ave-los-angeles-ca-110079997524/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "96.62 ",
+        "location": "1529 S Carmelina Ave, Los Angeles, CA 90025",
+        "price_usd": "3,999",
+        "link": "https://www.realestate.com.au//international/us/1529-s-carmelina-ave-los-angeles-ca-110084933946/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "5",
+        "car_spaces": "2",
+        "hous_size_m2": "324.88 ",
+        "location": "217 S WETHERLY DR, BEVERLY HILLS, CA 90211",
+        "price_usd": "14,000",
+        "link": "https://www.realestate.com.au//international/us/217-s-wetherly-dr-beverly-hills-ca-110079665137/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "car_spaces": "4",
+        "hous_size_m2": "354.52 ",
+        "location": "9879 Carmelita Ave, Beverly Hills, CA 90210",
+        "price_usd": "19,950",
+        "link": "https://www.realestate.com.au//international/us/9879-carmelita-ave-beverly-hills-ca-110084607985/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": null,
+        "location": "1514 Oakwood Ave, Venice, CA 90291",
+        "price_usd": "3,795",
+        "link": "https://www.realestate.com.au//international/us/1514-oakwood-ave-venice-ca-110085523624/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "158.86 ",
+        "location": "6109 S La Cienega Blvd, Los Angeles, CA 90056",
+        "price_usd": "4,200",
+        "link": "https://www.realestate.com.au//international/us/6109-s-la-cienega-blvd-los-angeles-ca-110084231358/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "car_spaces": "4",
+        "hous_size_m2": "365.48 ",
+        "location": "939 Westholme Ave, Los Angeles, CA 90024",
+        "price_usd": "21,000",
+        "link": "https://www.realestate.com.au//international/us/939-westholme-ave-los-angeles-ca-110084380240/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "158.86 ",
+        "location": "6111 La Cienega Blvd, County - Los Angeles, CA 90056",
+        "price_usd": "6,550",
+        "link": "https://www.realestate.com.au//international/us/6111-la-cienega-blvd-county-los-angeles-ca-110084231355/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "171.87 ",
+        "location": "1111 S Crescent Heights Blvd, Los Angeles, CA 90035",
+        "price_usd": "6,000",
+        "link": "https://www.realestate.com.au//international/us/1111-s-crescent-heights-blvd-los-angeles-ca-110083723844/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "car_spaces": "4",
+        "hous_size_m2": "255.30 ",
+        "location": "5245 W Goldenwood Dr, Inglewood, CA 90302",
+        "price_usd": "7,250",
+        "link": "https://www.realestate.com.au//international/us/5245-w-goldenwood-dr-inglewood-ca-110085434006/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "car_spaces": "1",
+        "hous_size_m2": "147.25 ",
+        "location": "155 N Crescent Dr, Apt PH-B, Beverly Hills, CA 90210",
+        "price_usd": "24,180",
+        "link": "https://www.realestate.com.au//international/us/155-n-crescent-dr-apt-ph-b-beverly-hills-ca-110080458554/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "207.08 ",
+        "location": "800 Indiana AVE, VENICE, CA 90291",
+        "price_usd": "9,595",
+        "link": "https://www.realestate.com.au//international/us/800-indiana-ave-venice-ca-110084635311/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "150.22 ",
+        "location": "5012 W Slauson Ave, Los Angeles, CA 90056",
+        "price_usd": "3,500",
+        "link": "https://www.realestate.com.au//international/us/5012-w-slauson-ave-los-angeles-ca-110085117011/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "189.34 ",
+        "location": "719 E Nowita Pl, Venice, CA 90291",
+        "price_usd": "12,995",
+        "link": "https://www.realestate.com.au//international/us/719-e-nowita-pl-venice-ca-110085386565/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "4",
+        "hous_size_m2": "289.49 ",
+        "location": "730 Palms Blvd, Venice, CA 90291",
+        "price_usd": "30,000",
+        "link": "https://www.realestate.com.au//international/us/730-palms-blvd-venice-ca-110085694996/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "3",
+        "hous_size_m2": "148.64 ",
+        "location": "1444 South SPAULDING Avenue, Los Angeles (City), CA 90019",
+        "price_usd": "5,500",
+        "link": "https://www.realestate.com.au//international/us/1444-south-spaulding-avenue-los-angeles-city-ca-110020181169/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "4",
+        "hous_size_m2": "117.43 ",
+        "location": "721 Palms, VENICE, CA 90291",
+        "price_usd": "6,500",
+        "link": "https://www.realestate.com.au//international/us/721-palms-venice-ca-110084894093/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "car_spaces": "5",
+        "hous_size_m2": "403.76 ",
+        "location": "112 N Elm Dr, Beverly Hills, CA 90210",
+        "price_usd": "18,900",
+        "link": "https://www.realestate.com.au//international/us/112-n-elm-dr-beverly-hills-ca-110083540421/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "car_spaces": "5",
+        "hous_size_m2": "403.76 ",
+        "location": "112 N Elm Dr, Beverly Hills, CA 90210",
+        "price_usd": "18,900",
+        "link": "https://www.realestate.com.au//international/us/112-n-elm-dr-beverly-hills-ca-110085695074/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "4",
+        "hous_size_m2": "209.40 ",
+        "location": "12027 Rhode Island Avenue, Apt A, Los Angeles, CA 90025",
+        "price_usd": "6,195",
+        "link": "https://www.realestate.com.au//international/us/12027-rhode-island-avenue-apt-a-los-angeles-ca-110085007519/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "car_spaces": "3",
+        "hous_size_m2": "275.83 ",
+        "location": "2112 Narcissus Ct, Venice, CA 90291",
+        "price_usd": "10,500",
+        "link": "https://www.realestate.com.au//international/us/2112-narcissus-ct-venice-ca-110084932400/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "195.10 ",
+        "location": "1583 S Ridgeley Dr, Los Angeles, CA 90019",
+        "price_usd": "7,000",
+        "link": "https://www.realestate.com.au//international/us/1583-s-ridgeley-dr-los-angeles-ca-110085695121/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "6",
+        "car_spaces": "5",
+        "hous_size_m2": "627.00 ",
+        "location": "512 N ROXBURY DR, Beverly Hills, CA 90210",
+        "price_usd": "32,000",
+        "link": "https://www.realestate.com.au//international/us/512-n-roxbury-dr-beverly-hills-ca-110085541526/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "87.89 ",
+        "location": "1106 Marine St, Santa Monica, CA 90405",
+        "price_usd": "6,400",
+        "link": "https://www.realestate.com.au//international/us/1106-marine-st-santa-monica-ca-110085541630/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "2",
+        "hous_size_m2": "58.34 ",
+        "location": "712 Vernon Avenue, Venice, CA 90291",
+        "price_usd": "3,500",
+        "link": "https://www.realestate.com.au//international/us/712-vernon-avenue-venice-ca-110085114824/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "6",
+        "hous_size_m2": "153.48 ",
+        "location": "1334 Pine St, Santa Monica, CA 90405",
+        "price_usd": "7,000",
+        "link": "https://www.realestate.com.au//international/us/1334-pine-st-santa-monica-ca-110083107837/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "157.94 ",
+        "location": "1053 Hi Point St, Los Angeles, CA 90035",
+        "price_usd": "5,295",
+        "link": "https://www.realestate.com.au//international/us/1053-hi-point-st-los-angeles-ca-110085235312/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "5",
+        "hous_size_m2": "278.71 ",
+        "location": "807 NAVY ST, SANTA MONICA, CA 90405",
+        "price_usd": "11,500",
+        "link": "https://www.realestate.com.au//international/us/807-navy-st-santa-monica-ca-110084442805/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "6",
+        "car_spaces": "4",
+        "hous_size_m2": "355.26 ",
+        "location": "200 N DOHENY DR, BEVERLY HILLS, CA 90211",
+        "price_usd": "35,000",
+        "link": "https://www.realestate.com.au//international/us/200-n-doheny-dr-beverly-hills-ca-110076527350/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "5",
+        "bathrooms": "4",
+        "car_spaces": "4",
+        "hous_size_m2": "392.70 ",
+        "location": "603 N Camden Dr, Beverly Hills, CA 90210",
+        "price_usd": "14,995",
+        "link": "https://www.realestate.com.au//international/us/603-n-camden-dr-beverly-hills-ca-110082159850/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "60.39 ",
+        "location": "3212 Longfellow Street, Santa Monica, CA 90405",
+        "price_usd": "2,995",
+        "link": "https://www.realestate.com.au//international/us/3212-longfellow-street-santa-monica-ca-110085578510/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "134.43 ",
+        "location": "6103 S Fairfax Ave, Los Angeles, CA 90056",
+        "price_usd": "3,500",
+        "link": "https://www.realestate.com.au//international/us/6103-s-fairfax-ave-los-angeles-ca-110084443103/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "1",
+        "hous_size_m2": "298.78 ",
+        "location": "1523 Cabrillo Ave, Venice, CA 90291",
+        "price_usd": "18,000",
+        "link": "https://www.realestate.com.au//international/us/1523-cabrillo-ave-venice-ca-110083363348/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "287.44 ",
+        "location": "585  GRAND, Venice, CA 90291",
+        "price_usd": "14,500",
+        "link": "https://www.realestate.com.au//international/us/585-grand-venice-ca-110019348310/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": null,
+        "location": "223 N ALMONT DR, BEVERLY HILLS, CA 90211",
+        "price_usd": "5,550",
+        "link": "https://www.realestate.com.au//international/us/223-n-almont-dr-beverly-hills-ca-110085569666/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": null,
+        "location": "1333 Masselin Ave, Los Angeles, CA 90019",
+        "price_usd": "2,300",
+        "link": "https://www.realestate.com.au//international/us/1333-masselin-ave-los-angeles-ca-110085433982/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "153.29 ",
+        "location": "228 N ALMONT DR, BEVERLY HILLS, CA 90211",
+        "price_usd": "4,295",
+        "link": "https://www.realestate.com.au//international/us/228-n-almont-dr-beverly-hills-ca-110084791095/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": null,
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "41.81 ",
+        "location": "132 N CARSON RD, Apt B, BEVERLY HILLS, CA 90211",
+        "price_usd": "4,000",
+        "link": "https://www.realestate.com.au//international/us/132-n-carson-rd-apt-b-beverly-hills-ca-110081638788/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": null,
+        "bathrooms": null,
+        "car_spaces": null,
+        "hous_size_m2": "57.51 ",
+        "location": "1356 Abbot Kinney Blvd, Venice, CA 90291",
+        "price_usd": "4,500",
+        "link": "https://www.realestate.com.au//international/us/1356-abbot-kinney-blvd-venice-ca-110084380246/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "4",
+        "hous_size_m2": "214.98 ",
+        "location": "2412 Mckinley Ave, Venice, CA 90291",
+        "price_usd": "13,000",
+        "link": "https://www.realestate.com.au//international/us/2412-mckinley-ave-venice-ca-110084790968/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": null,
+        "bathrooms": null,
+        "car_spaces": null,
+        "hous_size_m2": null,
+        "location": "1324 Abbot Kinney Blvd, Venice, CA 90291",
+        "price_usd": "25,900",
+        "link": "https://www.realestate.com.au//international/us/1324-abbot-kinney-blvd-venice-ca-110084588689/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": null,
+        "bathrooms": null,
+        "car_spaces": "2",
+        "hous_size_m2": "427.35 ",
+        "location": "1324 Abbot Kinney Blvd, Venice, CA 90291",
+        "price_usd": "39,000",
+        "link": "https://www.realestate.com.au//international/us/1324-abbot-kinney-blvd-venice-ca-110084591026/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": null,
+        "location": "522 WESTMINSTER AVE, VENICE, CA 90291",
+        "price_usd": "8,000",
+        "link": "https://www.realestate.com.au//international/us/522-westminster-ave-venice-ca-110085695133/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "4",
+        "hous_size_m2": "281.50 ",
+        "location": "524 Altair Pl, Venice, CA 90291",
+        "price_usd": "20,000",
+        "link": "https://www.realestate.com.au//international/us/524-altair-pl-venice-ca-110081827886/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "199.93 ",
+        "location": "552 Grand Blvd, Venice, CA 90291",
+        "price_usd": "11,500",
+        "link": "https://www.realestate.com.au//international/us/552-grand-blvd-venice-ca-110083965865/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "3",
+        "hous_size_m2": "147.25 ",
+        "location": "644 Navy St, Santa Monica, CA 90405",
+        "price_usd": "9,500",
+        "link": "https://www.realestate.com.au//international/us/644-navy-st-santa-monica-ca-110084791026/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "150.87 ",
+        "location": "1130 5th Ave, Venice, CA 90291",
+        "price_usd": "7,500",
+        "link": "https://www.realestate.com.au//international/us/1130-5th-ave-venice-ca-110085433992/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "11",
+        "bathrooms": "12",
+        "car_spaces": "12",
+        "hous_size_m2": "2,229.67 ",
+        "location": "817 N WHITTIER DR, BEVERLY HILLS, CA 90210",
+        "price_usd": "150,000",
+        "link": "https://www.realestate.com.au//international/us/817-n-whittier-dr-beverly-hills-ca-110085234307/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "126.81 ",
+        "location": "2623 Arizona Ave, Santa Monica, CA 90404",
+        "price_usd": "4,950",
+        "link": "https://www.realestate.com.au//international/us/2623-arizona-ave-santa-monica-ca-110085695192/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "4",
+        "hous_size_m2": "98.11 ",
+        "location": "1019 Amherst Ave, Los Angeles, CA 90049",
+        "price_usd": "5,989",
+        "link": "https://www.realestate.com.au//international/us/1019-amherst-ave-los-angeles-ca-110085063402/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "3",
+        "hous_size_m2": "119.66 ",
+        "location": "8011 Campion Dr, Los Angeles, CA 90045",
+        "price_usd": "5,600",
+        "link": "https://www.realestate.com.au//international/us/8011-campion-dr-los-angeles-ca-110083908811/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "61.32 ",
+        "location": "1203 Cabrillo Ave, Venice, CA 90291",
+        "price_usd": "4,500",
+        "link": "https://www.realestate.com.au//international/us/1203-cabrillo-ave-venice-ca-110084752060/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "223.52 ",
+        "location": "6285 DEL VALLE DR, LOS ANGELES, CA 90048",
+        "price_usd": "9,000",
+        "link": "https://www.realestate.com.au//international/us/6285-del-valle-dr-los-angeles-ca-110085523596/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "204.39 ",
+        "location": "533 Venice Way, Venice, CA 90291",
+        "price_usd": "6,995",
+        "link": "https://www.realestate.com.au//international/us/533-venice-way-venice-ca-110085234277/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "144.19 ",
+        "location": "9116 W 3rd St, Los Angeles, CA 90048",
+        "price_usd": "6,500",
+        "link": "https://www.realestate.com.au//international/us/9116-w-3rd-st-los-angeles-ca-110085386420/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "84.63 ",
+        "location": "9122 W 3rd St, Los Angeles, CA 90048",
+        "price_usd": "4,650",
+        "link": "https://www.realestate.com.au//international/us/9122-w-3rd-st-los-angeles-ca-110085471262/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "1",
+        "hous_size_m2": "169.83 ",
+        "location": "2640 Vineyard Ave, Los Angeles, CA 90016",
+        "price_usd": "7,750",
+        "link": "https://www.realestate.com.au//international/us/2640-vineyard-ave-los-angeles-ca-110085493979/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "175.22 ",
+        "location": "8107 BLERIOT AVE, LOS ANGELES, CA 90045",
+        "price_usd": "7,000",
+        "link": "https://www.realestate.com.au//international/us/8107-bleriot-ave-los-angeles-ca-110085434005/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "124.86 ",
+        "location": "438 Linnie Canal, Venice, CA 90291",
+        "price_usd": "15,000",
+        "link": "https://www.realestate.com.au//international/us/438-linnie-canal-venice-ca-110085695009/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "49.70 ",
+        "location": "431 Linnie Canal 1/2, Venice, CA 90291",
+        "price_usd": "4,295",
+        "link": "https://www.realestate.com.au//international/us/431-linnie-canal-1-2-venice-ca-110084827305/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "69.68 ",
+        "location": "7916 Airport Blvd, Los Angeles, CA 90045",
+        "price_usd": "2,550",
+        "link": "https://www.realestate.com.au//international/us/7916-airport-blvd-los-angeles-ca-110084588871/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "111.48 ",
+        "location": "1254 S RIDGELEY DR, LOS ANGELES, CA 90019",
+        "price_usd": "3,300",
+        "link": "https://www.realestate.com.au//international/us/1254-s-ridgeley-dr-los-angeles-ca-110085608009/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": null,
+        "hous_size_m2": "41.81 ",
+        "location": "709 Ocean Park Blvd, Apt A, Santa Monica, CA 90405",
+        "price_usd": "3,000",
+        "link": "https://www.realestate.com.au//international/us/709-ocean-park-blvd-apt-a-santa-monica-ca-110084790947/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "car_spaces": "1",
+        "hous_size_m2": null,
+        "location": "344 INDIANA Avenue, Venice, CA 90291",
+        "price_usd": "5,200",
+        "link": "https://www.realestate.com.au//international/us/344-indiana-avenue-venice-ca-110050053077/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "387.78 ",
+        "location": "6620 Lindenhurst Ave, Los Angeles, CA 90048",
+        "price_usd": "13,500",
+        "link": "https://www.realestate.com.au//international/us/6620-lindenhurst-ave-los-angeles-ca-110085234063/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "4",
+        "car_spaces": "2",
+        "hous_size_m2": "285.49 ",
+        "location": "420 Carroll Canal, Venice, CA 90291",
+        "price_usd": "21,900",
+        "link": "https://www.realestate.com.au//international/us/420-carroll-canal-venice-ca-110084125700/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": null,
+        "hous_size_m2": "108.60 ",
+        "location": "840 S Orange Grove Ave, Los Angeles, CA 90036",
+        "price_usd": "3,750",
+        "link": "https://www.realestate.com.au//international/us/840-s-orange-grove-ave-los-angeles-ca-110085669798/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "1",
+        "hous_size_m2": "132.67 ",
+        "location": "1014 S Stanley Ave, Los Angeles, CA 90019",
+        "price_usd": "5,695",
+        "link": "https://www.realestate.com.au//international/us/1014-s-stanley-ave-los-angeles-ca-110085608007/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "178.00 ",
+        "location": "240 Howland Canal, Venice, CA 90291",
+        "price_usd": "25,000",
+        "link": "https://www.realestate.com.au//international/us/240-howland-canal-venice-ca-110085695166/"
+    },
+    {
+        "property_type": "Other",
+        "bedrooms": null,
+        "bathrooms": null,
+        "car_spaces": null,
+        "hous_size_m2": null,
+        "location": "1443 18th Street, Santa Monica, CA 90404",
+        "price_usd": "5,500",
+        "link": "https://www.realestate.com.au//international/us/1443-18th-street-santa-monica-ca-110084362747/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "268.77 ",
+        "location": "225 Sherman Canal, Venice, CA 90291",
+        "price_usd": "13,500",
+        "link": "https://www.realestate.com.au//international/us/225-sherman-canal-venice-ca-110080046682/"
+    },
+    {
+        "property_type": "Townhouse",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "car_spaces": "2",
+        "hous_size_m2": "139.35 ",
+        "location": "220 S Venice Blvd, Venice, CA 90291",
+        "price_usd": "7,500",
+        "link": "https://www.realestate.com.au//international/us/220-s-venice-blvd-venice-ca-110085310857/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "6",
+        "bathrooms": "7",
+        "car_spaces": "9",
+        "hous_size_m2": "862.88 ",
+        "location": "812 N Bedford Dr, Beverly Hills, CA 90210",
+        "price_usd": "125,000",
+        "link": "https://www.realestate.com.au//international/us/812-n-bedford-dr-beverly-hills-ca-110085233973/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": "1",
+        "hous_size_m2": "97.55 ",
+        "location": "1515 S Orange Dr, Los Angeles, CA 90019",
+        "price_usd": "3,750",
+        "link": "https://www.realestate.com.au//international/us/1515-s-orange-dr-los-angeles-ca-110084710996/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "4",
+        "car_spaces": "3",
+        "hous_size_m2": "292.74 ",
+        "location": "218 Carroll Canal, Venice, CA 90291",
+        "price_usd": "15,995",
+        "link": "https://www.realestate.com.au//international/us/218-carroll-canal-venice-ca-110084702559/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "car_spaces": "4",
+        "hous_size_m2": "331.29 ",
+        "location": "213 Horizon Ave, Venice, CA 90291",
+        "price_usd": "19,500",
+        "link": "https://www.realestate.com.au//international/us/213-horizon-ave-venice-ca-110081514914/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "136.47 ",
+        "location": "11438 Chenault Street, Brentwood, CA 90049",
+        "price_usd": "6,900",
+        "link": "https://www.realestate.com.au//international/us/11438-chenault-street-brentwood-ca-110085667761/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "car_spaces": "2",
+        "hous_size_m2": "140.56 ",
+        "location": "216 3rd Ave, Venice, CA 90291",
+        "price_usd": "8,400",
+        "link": "https://www.realestate.com.au//international/us/216-3rd-ave-venice-ca-110083402931/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "car_spaces": "10",
+        "hous_size_m2": "242.29 ",
+        "location": "512 N Elm Dr, Beverly Hills, CA 90210",
+        "price_usd": "10,000",
+        "link": "https://www.realestate.com.au//international/us/512-n-elm-dr-beverly-hills-ca-110085523621/"
+    },
+    {
+        "property_type": "House",
+        "bedrooms": "4",
+        "bathrooms": "5",
+        "car_spaces": "2",
+        "hous_size_m2": "380.90 ",
+        "location": "814 N Bedford Dr, Beverly Hills, CA 90210",
+        "price_usd": "65,000",
+        "link": "https://www.realestate.com.au//international/us/814-n-bedford-dr-beverly-hills-ca-110085234311/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "148.37 ",
+        "location": "8500 Burton Way #604, Los Angeles, CA 90048",
+        "price_usd": "13,800",
+        "link": "https://www.realestate.com.au//international/us/8500-burton-way-604-los-angeles-ca-110082370445/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "121.98 ",
+        "location": "8500 Burton Way #803, Los Angeles, CA 90048",
+        "price_usd": "11,500",
+        "link": "https://www.realestate.com.au//international/us/8500-burton-way-803-los-angeles-ca-110083221832/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "121.98 ",
+        "location": "8500 Burton Way #503, Los Angeles, CA 90048",
+        "price_usd": "10,000",
+        "link": "https://www.realestate.com.au//international/us/8500-burton-way-503-los-angeles-ca-110084709892/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "107.95 ",
+        "location": "8500 Burton Way #714, Los Angeles, CA 90048",
+        "price_usd": "9,000",
+        "link": "https://www.realestate.com.au//international/us/8500-burton-way-714-los-angeles-ca-110085118178/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "car_spaces": "2",
+        "hous_size_m2": "84.08 ",
+        "location": "8500 Burton Way #515, Los Angeles, CA 90048",
+        "price_usd": "6,800",
+        "link": "https://www.realestate.com.au//international/us/8500-burton-way-515-los-angeles-ca-110085121239/"
+    },
+    {
+        "property_type": "Apartment",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "car_spaces": "2",
+        "hous_size_m2": "149.85 ",
+        "location": "8500 Burton Way #718, Los Angeles, CA 90048",
+        "price_usd": "12,300",
+        "link": "https://www.realestate.com.au//international/us/8500-burton-way-718-los-angeles-ca-110085204973/"
+    }
+]
