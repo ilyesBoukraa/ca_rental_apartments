@@ -1,9 +1,8 @@
 # California Rental Real Estate:
 Note: For the time being, I am still using static websites exclusively until I have properly learned __Selenium__(next project probably).
 
-Tried her to create some real-world example, if you're looking to gather information about rental properties in __California__ such as Property Type, <br>
-number of Bedrooms, Bathrooms, Car Spaces, House Size (m2), Location, and Price (USD), web scraping and storing the data in a JSON file <br>
-can provide a convenient way to access and analyze the information. By scraping the relevant websites and extracting these details, <br>
+Tried her to create some real-world example, if you're looking to gather information about rental properties in __California__ such as Property Type, number of Bedrooms, Bathrooms, Car Spaces, House Size (m2), Location, and Price (USD), web scraping and storing the data in a JSON file 
+can provide a convenient way to access and analyze the information. By scraping the relevant websites and extracting these details, 
 you can create a structured dataset that can be easily queried and filtered using SQL queries.
 
 # Project description:
